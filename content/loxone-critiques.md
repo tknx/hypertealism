@@ -2,7 +2,7 @@
 title: "Loxone critiques"
 craft_id: 45EE4645-62C8-435C-96C5-BE7EA0B93A2B
 date: 2026-04-18T17:23:56.073Z
-lastmod: 2026-05-20T20:53:59.872Z
+lastmod: 2026-07-23T19:13:44.710Z
 ---
 
 Ongoing list, updated whenever
@@ -62,7 +62,7 @@ User Management
 
 Education
 
-- The programmer I was referred to, who I was told was their best guy (and is very nice and diligent), didn't know how to use an RVC block and had built all that logic in the most complicated way possible (but the block is broken anyway)
+- 
 - There is no UI/XML cross-reference available
 - Descriptions are abstract and often difficult to follow; every single one should have:
   - is it a pulse or sustained
