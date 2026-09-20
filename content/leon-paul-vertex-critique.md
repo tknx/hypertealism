@@ -2,7 +2,7 @@
 title: "Leon Paul Vertex critique"
 craft_id: BA6AEB1B-9D5D-4B19-BA0C-4ABA96DDC63A
 date: 2026-09-14T21:04:43.795Z
-lastmod: 2026-09-16T17:50:31.459Z
+lastmod: 2026-09-20T17:45:16.335Z
 ---
 
 The world of fencing travel bags is a pile of shit. The king of these bags is the Leon Paul Vertex, which has great ideas often poorly executed.
@@ -47,6 +47,6 @@ Second, those could have been long single zippers that the bag could have then a
 
 The vertical shelf bag is a great idea (baseball has had them for a while, so this is not exactly true innovation, but whatever). I will give credit for a velcro compatible inner lining. Every fucking bag should just be designed with modularity so I can mount things to hold cords and other stuff and move it around for my use case (do you hear that Allstar and Radical and the rest)
 
-And at least the pockets don't billow out. God damn it fencing manufacturers, the best airline bag will have zero snag points and will look aerodynamic (luggagedynamic) as hell. Pockets need to billow inside instead of outside and be flush.
+And at least the pockets don't billow out. God damn it fencing manufacturers, the best airline bag will have*** zero snag points*** and will look aerodynamic (luggagedynamic) as hell. Pockets need to billow inside instead of outside and be flush.
 
 But upping the build quality and materials, simplifying the weapon carrier mount system and removing snag points... those would do wonders. If they are trying to showcase UK build quality, this isn't it.
