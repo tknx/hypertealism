@@ -2,7 +2,7 @@
 title: "Leon Paul Vertex critique"
 craft_id: BA6AEB1B-9D5D-4B19-BA0C-4ABA96DDC63A
 date: 2026-09-14T21:04:43.795Z
-lastmod: 2026-09-20T17:45:16.335Z
+lastmod: 2026-09-24T22:52:43.480Z
 ---
 
 The world of fencing travel bags is a pile of shit. The king of these bags is the Leon Paul Vertex, which has great ideas often poorly executed.
@@ -17,7 +17,7 @@ The ripstop outer should have been Cordura 500D at least, if not 1000D for the p
 
 The inner orange liner should have probably been xpac but whatever it is, the bell guards are already wearing away at it.
 
-The inner fabric liner should have been industrial loop Velcro at least. 
+The inner fabric liner should have been industrial loop Velcro. 
 
 ### Design Critiques
 
@@ -33,13 +33,13 @@ Instead they made it so it uses very narrowly placed wheels that make it tip at 
 
 **Bottle pockets** - Maybe someone uses these? I didn't. Also they didn't need a special mount, you have a velcro lining - remember? Then at least I could put them towards the front of the bag when it is open (or what would be kind of cool is to clip them on the outside...
 
-**Zip-on Weapon Carrier** - You know what you never want with travel bags. Anything that can snag or get hooked onto something else and tear. You know what tore on mine within 3 trips? Those fucking flaps for the zip-on weapon carrier. 
+**Zip-on Weapon Carrier** - You know what you never want with travel bags? Snag points. You know what tore on mine within 3 trips? Those fucking flaps for the zip-on weapon carrier. 
 
 You also know how you have two very slim pockets to support the weapon carrier with buckles. First, that should have warned you your design was overly complicated if they need that many things to attach properly.
 
 Second, those could have been long single zippers that the bag could have then attached to, flush with the sides instead of flapping out there in the breeze waiting to get pulled on.
 
-**Luggage Locks** - you included standard luggage locks right? The ones with those weird rectangular zipper pulls that lock in. Nope. Instead you have to buy several padlocks and you have tons of pretty nice zipper pulls that will snag on everything when an airplane luggage handler looks at your bag funny.
+**Luggage Locks** - you included standard luggage locks right? The ones with those weird rectangular zipper pulls that lock in to built in slots on the bag like every cheap hardcase has. Nope. Instead you have to buy several padlocks and you have tons of pretty nice zipper pulls that will snag on everything when an airplane luggage handler looks at your bag funny.
 
 **Handles** - I am not sure about the Stowaway Pull Handle. Honestly I feel it is inelegant at best. A permanent slightly less floppy handle like the one on the front would have worked better. And adding another handle like the front at the base would be better than using a molded base grip when loading it into and out of cars. 
 
