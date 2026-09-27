@@ -1,5 +1,6 @@
 ---
 title: "An opinionated guide for packing for fencing tournaments"
+craft_id: 2CE35DB1-F2F3-4A10-871A-5ADF942F42AF
 date: 2026-09-27T22:19:43.166Z
 lastmod: 2026-09-27T22:20:53.417Z
 ---
