@@ -1,7 +1,7 @@
 ---
 title: "An opinionated guide for packing for fencing tournaments"
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-10-25T18:37:20.996Z
+lastmod: 2026-10-25T18:38:12.483Z
 ---
 
 Packing List
@@ -126,6 +126,6 @@ Have a small carry bag that can take two more foils and your extra 2 cord sets a
 
 ## How to Pack for the First Day 
 
-Take your mask, put your glove in there, fold up the two lames, and grab your kit of three sets of wires. Then you just grab those two things and get in line for equipment check.
+Take your mask, put the glove in there, fold up the two lames, and grab your kit of three sets of wires. Then you just grab those two things and get in line for equipment check. Strip off old tags from your wires since sometimes the armorer's don't like that.
 
-Blades get checked on the piste, so no need to worry about those
+Other stuff keep separate... Blades get checked on the piste, so no need to worry about those
