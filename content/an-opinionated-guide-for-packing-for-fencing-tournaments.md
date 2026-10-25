@@ -2,7 +2,7 @@
 title: "An opinionated guide for packing for fencing tournaments"
 craft_id: 2CE35DB1-F2F3-4A10-871A-5ADF942F42AF
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-09-27T22:20:53.417Z
+lastmod: 2026-10-25T18:37:20.996Z
 ---
 
 Packing List
@@ -124,3 +124,9 @@ Have a small carry bag that can take two more foils and your extra 2 cord sets a
 
 - 2x Fold up stools - Many venues do not have seating. I have [Hillsound BTR Stools](https://hillsound.com/products/btr). They are great because they come in different heights for my tall kid. Lots of people use the pop up disc ones.
 - 2x Water bottles, snacks, and replacement salt in some form
+
+## How to Pack for the First Day 
+
+Take your mask, put your glove in there, fold up the two lames, and grab your kit of three sets of wires. Then you just grab those two things and get in line for equipment check.
+
+Blades get checked on the piste, so no need to worry about those
