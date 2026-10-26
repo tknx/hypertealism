@@ -2,7 +2,7 @@
 title: "An opinionated guide for packing for fencing tournaments"
 craft_id: 2CE35DB1-F2F3-4A10-871A-5ADF942F42AF
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-10-25T18:38:12.483Z
+lastmod: 2026-10-26T16:23:14.185Z
 ---
 
 Packing List
@@ -17,17 +17,18 @@ Why three cords when tournaments require two? Because when one fails and you go 
 
 ## Uniforms
 
-There are really just two things to worry about with uniforms besides fit:
+There are three tiers to uniforms 
 
-- 350N vs 800N - this is how puncture resistant the fabric is. 350N is the minimum everywhere domestic; 800N is required internationally
-- Thick vs thin fabric - thick pads better on strikes, thin breathes better and dries faster. Thin 800N uniforms are made of Dyneema and usually much more expensive
+1. 350N - many beginner uniforms are this. 350 newtons is how much puncture resistance it has. 
+1. 800N Mid-tier - Achieve more puncture resistance through a thicker materials. Tend to be heavy. 
+1. 800N High-tier - Achieve puncture resistance through advanced materials like Dyneema. Lightweight but expensive. (E.g. Allstar Startex)
 
 Brands I am familiar with
 
 - [Absolute Fencing 10-piece Electric Foil Starter Set](https://www.absolutefencinggear.com/deluxe-10-piece-electric-foil-set.html) - 350N; available at Victory Fencing in SF; inexpensive and works well
 - [KH Fencing](https://www.facebook.com/groups/khfengcing/) - direct from China brand, thin Dyneema suit is about half the price of Allstar, but the build construction is not as good either.
 - [Negrini](https://negrini.com/en/products?cat=11255&p=2) - Carried by Alliance Fencing in SF
-- [Allstar Startex](https://allstaruhlmann.com) - This is probably the most popular premium uniform; Blue Gauntlet who are at a lot of the tournaments and The Fencing Post carry it
+- [Allstar Startex](https://allstaruhlmann.com) - This is probably the most popular premium uniform; Blue Gauntlet who are at a lot of the tournaments and The Fencing Post carry it. 
 
 Other brands include store house brands (Blue Gauntlet, Alliance, Linea, Leonark), Beyond, Carmimari, CHZE, Eurofencing, FWF, Jiang / Fencing Star, Leon Paul, Negrini, OK Fencing, PBT, Planète Escrime, Prieur, StM, Unic Fencing, Wuxi.
 
@@ -37,7 +38,7 @@ Tip: When you are at a tournament, go have your kid try on the clothing they hav
 
 ## Other Clothing Items
 
-- Gloves x2 - Kai likes [JKO gloves](https://www.absolutefencinggear.com/af-master-series-dry-pro-3-w-glove.html) which are made by Eurofencing. There are plenty of other brands.
+- Gloves x2 - Kai likes [JKO gloves](https://www.absolutefencinggear.com/af-master-series-dry-pro-3-w-glove.html) which are made by Eurofencing. There are plenty of other brands. It is all fit and feel. 
 - Chest Protector - for foil it must be padded. It is required for women. Optional for men.
 - Knee High Socks - no skin can be exposed. Anything works. We buy [cheapies from Amazon](https://www.amazon.com/dp/B09BVXM8ZN?th=1&psc=1).
 
