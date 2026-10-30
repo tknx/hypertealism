@@ -2,12 +2,14 @@
 title: "Ioniq 9 Critiques"
 craft_id: DE767146-7CB0-4F3E-AAE1-98F07C99EC5E
 date: 2026-04-24T18:00:38.156Z
-lastmod: 2026-09-08T15:25:34.727Z
+lastmod: 2026-10-30T17:47:39.824Z
 ---
 
 **Access**
 
 - Should shutdown and lock when key walks away (Macan handles this perfectly)
+- Sometimes it is on or off and difficult to tell because the screen itself is on
+- The fingerprint should actually recognize the user and switch to them automatically. It is nonsensical to switch to the user first and then use the fingerprint.
 - Similarly there is no need to have a start / stop button.
 - Remote is huge, feels cheap, and has tons of small side buttons plus spare key doesn't store inside ← maybe the cheapest feeling, least well designed part of the car
 
@@ -19,7 +21,6 @@ lastmod: 2026-09-08T15:25:34.727Z
 
 **Storage**
 
-- Rear trunk is slightly too small
 - Door storages are way too small
 - Cargo cover only works when 3rd row is down, should have a slot when up too
 
@@ -33,7 +34,7 @@ lastmod: 2026-09-08T15:25:34.727Z
 
 - The swoops and circles on the door panels are unattractive and generally not thematically fit with the exterior 
 - The decorative passenger side panel looks like some kids started smudging silver paint with their fingers - it looks terrible. 
-- The two tone is weird as hell
+- The two tone seats are weird as hell
 - The IR rejection of the car is terrible. They clearly cheaped out on glass. 
 - I think they could have easily stretched this car vertically a couple more inches. A little more leg height and a little more airy cabin would have been great. 
 - The rear seat should have a sunroof too. 
