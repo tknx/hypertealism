@@ -2,7 +2,7 @@
 title: "Ioniq 9 Critiques"
 craft_id: DE767146-7CB0-4F3E-AAE1-98F07C99EC5E
 date: 2026-04-24T18:00:38.156Z
-lastmod: 2026-10-30T17:47:39.824Z
+lastmod: 2026-10-30T17:49:13.805Z
 ---
 
 **Access**
@@ -10,8 +10,8 @@ lastmod: 2026-10-30T17:47:39.824Z
 - Should shutdown and lock when key walks away (Macan handles this perfectly)
 - Sometimes it is on or off and difficult to tell because the screen itself is on
 - The fingerprint should actually recognize the user and switch to them automatically. It is nonsensical to switch to the user first and then use the fingerprint.
-- Similarly there is no need to have a start / stop button.
-- Remote is huge, feels cheap, and has tons of small side buttons plus spare key doesn't store inside ← maybe the cheapest feeling, least well designed part of the car
+- Similarly there is no need to have a start / stop button. The Macan really handles this much better
+- Keyfob is huge, feels cheap, and has tons of small side buttons plus spare key doesn't store inside ← maybe the cheapest feeling, least well designed part of the car
 
 **Drive**
 
@@ -33,14 +33,15 @@ lastmod: 2026-10-30T17:47:39.824Z
 **Interior**
 
 - The swoops and circles on the door panels are unattractive and generally not thematically fit with the exterior 
-- The decorative passenger side panel looks like some kids started smudging silver paint with their fingers - it looks terrible. 
+- The decorative passenger side panel looks like some kids started smudging silver paint with their fingers - it looks terrible. The lower trims get a faux wood and it is 100% better than this crap.
 - The two tone seats are weird as hell
 - The IR rejection of the car is terrible. They clearly cheaped out on glass. 
 - I think they could have easily stretched this car vertically a couple more inches. A little more leg height and a little more airy cabin would have been great. 
 - The rear seat should have a sunroof too. 
 
-**Infotainment**
+**Infotainment **
 
+- The car beeps but doesn't give you any info about what is wrong - seatbelt? Door slightly open? It should always tell you in plain language, but it hides it
 - I got this car instead of a Rivian because it has CarPlay and it is well executed
 - The screen is nice and laid out nicely, but could have been 2 inches taller
 - Some functions are in Blue Link but not on the car system which is weird (climate at time)
