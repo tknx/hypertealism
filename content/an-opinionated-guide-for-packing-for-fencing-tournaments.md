@@ -2,7 +2,7 @@
 title: "An opinionated guide for packing for fencing tournaments"
 craft_id: 2CE35DB1-F2F3-4A10-871A-5ADF942F42AF
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-10-26T16:23:14.185Z
+lastmod: 2026-10-31T03:47:15.713Z
 ---
 
 Packing List
@@ -20,8 +20,8 @@ Why three cords when tournaments require two? Because when one fails and you go 
 There are three tiers to uniforms 
 
 1. 350N - many beginner uniforms are this. 350 newtons is how much puncture resistance it has. 
-1. 800N Mid-tier - Achieve more puncture resistance through a thicker materials. Tend to be heavy. 
-1. 800N High-tier - Achieve puncture resistance through advanced materials like Dyneema. Lightweight but expensive. (E.g. Allstar Startex)
+2. 800N Mid-tier - Achieve more puncture resistance through a thicker materials. Tend to be heavy. 
+3. 800N High-tier - Achieve puncture resistance through advanced materials like Dyneema. Lightweight but expensive. (E.g. Allstar Startex)
 
 Brands I am familiar with
 
@@ -74,7 +74,9 @@ Court shoes are easier to source and try on, of course.
 
 # Cords - x3
 
-We have always used cheap mask cords and [Negrini body cords](https://www.absolutefencinggear.com/negrini-bodycord-2-prong.html) (2-prong for foil) which have the best reputation. Not sure about other brands.
+I really recommend [Alliance Elite Mask Cords](https://www.alliancefencingequipment.com/product/alliance-heavy-duty-mask-cable/). They are actually built properly. 
+
+For body cords:  [Negrini body cords](https://www.absolutefencinggear.com/negrini-bodycord-2-prong.html) (2-prong for foil) which have the best reputation. Not sure about other brands.
 
 To keep them separate, I use this Velcro [triple rifle magazine holder](https://a.co/d/06bkbW00). It works great. I used adhesive Velcro strips on our practice bag so it can go with him to practice and stick it to the side of the LP bag when travelling. Keeps them from tangling up. (Because fencing bags are horribly allergic to sensible pockets.)
 
