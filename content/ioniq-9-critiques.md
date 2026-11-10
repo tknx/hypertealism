@@ -2,7 +2,7 @@
 title: "Ioniq 9 Critiques"
 craft_id: DE767146-7CB0-4F3E-AAE1-98F07C99EC5E
 date: 2026-04-24T18:00:38.156Z
-lastmod: 2026-10-30T17:49:13.805Z
+lastmod: 2026-11-10T14:36:31.059Z
 ---
 
 **Access**
@@ -29,6 +29,7 @@ lastmod: 2026-10-30T17:49:13.805Z
 - Exterior is mostly fine, I think the lights arcing over the back is not particularly attractive - maybe  if the lights had a more aggressive pattern in them. The 5 is much better looking. 
 - Should have a charging port on each side and a space to store the adapter under the cover next to the port
 - The popout door handles are chunky and unattractive and unnecessary and also reveal if you accidentally left your car unlocked
+- The car would really benefit from active cornering lights on turns
 
 **Interior**
 
