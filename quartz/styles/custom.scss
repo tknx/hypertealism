@@ -19,15 +19,17 @@
 // ---------------------------------------------------------------------------
 :root {
   --title-size: clamp(4rem, 6.4vw, 6.75rem);
-  --title-shadow: #a3d8ce;
+  --title-color: #00c9b7;
+  --title-shadow: #0b4f4a;
   --link-underline: #6fbcae;
 }
 :root[saved-theme="dark"] {
-  --title-shadow: #1d5750;
+  --title-color: #00f0da;
+  --title-shadow: #0b4f4a;
   --link-underline: #2f7d72;
 }
 
-// Title: oversized fat italic with a tonal, slightly off-register shadow.
+// Title: oversized fat italic in loud teal, with a deep teal off-register shadow.
 .page-title {
   font-family: var(--titleFont);
   font-size: var(--title-size);
@@ -41,7 +43,7 @@
 .page-title a {
   white-space: nowrap;
   overflow-wrap: normal;
-  color: var(--secondary);
+  color: var(--title-color);
   text-shadow: 0.05em 0.04em 0 var(--title-shadow);
 }
 
