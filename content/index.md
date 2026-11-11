@@ -1,7 +1,7 @@
 ---
 title: "An opinionated guide for packing for fencing tournaments"
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-11-11T16:17:45.803Z
+lastmod: 2026-11-11T16:38:23.000Z
 ---
 
 ## Packing List
