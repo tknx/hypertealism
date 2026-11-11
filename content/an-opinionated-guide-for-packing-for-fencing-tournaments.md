@@ -2,7 +2,7 @@
 title: "An opinionated guide for packing for fencing tournaments"
 craft_id: 2CE35DB1-F2F3-4A10-871A-5ADF942F42AF
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-11-11T16:15:44.464Z
+lastmod: 2026-11-11T16:17:45.803Z
 ---
 
 ## Packing List
@@ -121,7 +121,9 @@ Bag 2: Have a small strip bag that can take two more foils and your extra cord s
 
 ## Things to learn for stripside maintenance
 
-- How to tape a foil
+- [How to tape a foil](https://www.youtube.com/watch?v=LOsw5QqJmKY)
 - How to replace a foil spring
+
+[Rewiring](https://www.youtube.com/watch?v=ny9VPF1T4aY&t=3s) is not something you want to do stripside, give it to the tournament armorer to fix or do it at home.
 
 **
