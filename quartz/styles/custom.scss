@@ -1,3 +1,13 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Explorer sidebar: a little air between entries, and a hanging indent so a
+// title that wraps reads as one entry (wrapped lines sit 2em in).
+.explorer-content ul li:has(> a) {
+  padding-left: 2em;
+  text-indent: -2em;
+}
+.explorer-content ul li + li {
+  margin-top: 0.4rem;
+}
