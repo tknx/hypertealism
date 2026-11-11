@@ -16,30 +16,31 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
+      title: Shrikhand
       header: Schibsted Grotesk
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#e8f1ee"
+        lightgray: "#c9dcd6"
+        gray: "#5d7c77"
+        darkgray: "#2c4542"
+        dark: "#0f2a27"
+        secondary: "#0b4f4a"
+        tertiary: "#0b6e66"
+        highlight: rgba(11, 79, 74, 0.08)
+        textHighlight: "#8fdccf88"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#0d1d1b"
+        lightgray: "#1f3633"
+        gray: "#6b8c87"
+        darkgray: "#bcd3cf"
+        dark: "#e2f1ee"
+        secondary: "#8edbcf"
+        tertiary: "#a6e6dc"
+        highlight: rgba(142, 219, 207, 0.1)
+        textHighlight: "#2f7d7288"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true

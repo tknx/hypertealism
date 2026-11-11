@@ -11,3 +11,78 @@
 .explorer-content ul li + li {
   margin-top: 0.4rem;
 }
+
+// ---------------------------------------------------------------------------
+// Teal paper: the palette lives in quartz.config.yaml (theme.colors), the
+// title font is theme.typography.title (Shrikhand). This file adds the
+// oversized title and the link underlines.
+// ---------------------------------------------------------------------------
+:root {
+  --title-size: clamp(4rem, 6.4vw, 6.75rem);
+  --title-shadow: #a3d8ce;
+  --link-underline: #6fbcae;
+}
+:root[saved-theme="dark"] {
+  --title-shadow: #1d5750;
+  --link-underline: #2f7d72;
+}
+
+// Title: oversized fat italic with a tonal, slightly off-register shadow.
+.page-title {
+  font-family: var(--titleFont);
+  font-size: var(--title-size);
+  font-weight: 400;
+  line-height: 1;
+  margin: 0;
+  white-space: nowrap;
+  transform: rotate(-2.5deg);
+  transform-origin: left bottom;
+}
+.page-title a {
+  white-space: nowrap;
+  overflow-wrap: normal;
+  color: var(--secondary);
+  text-shadow: 0.05em 0.04em 0 var(--title-shadow);
+}
+
+// Tablet and desktop: the title runs out of the left column across the top of
+// the article. The left column stops being sticky so the title scrolls away
+// with the page instead of sitting over the text, and the article header
+// starts below the title.
+@media all and not ($mobile) {
+  .page > #quartz-body .sidebar.left {
+    position: relative;
+    height: auto;
+  }
+  .page > #quartz-body .page-header {
+    margin-top: calc(#{$topSpacing} + var(--title-size) * 1.1 + 1.25rem);
+  }
+}
+
+// Phones: the title gets its own row above the menu and search, sized to the
+// screen width.
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left {
+    flex-wrap: wrap;
+    row-gap: 1rem;
+  }
+  .page-title {
+    order: -1;
+    flex: 1 0 100%;
+    font-size: clamp(2.5rem, 11.5vw, 4rem);
+  }
+}
+
+// Article links: a thick offset teal underline instead of the tinted box.
+.center article a.internal,
+.center article a.external {
+  background: none;
+  padding: 0;
+  text-decoration: underline;
+  text-decoration-color: var(--link-underline);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  &:hover {
+    text-decoration-color: currentColor;
+  }
+}
