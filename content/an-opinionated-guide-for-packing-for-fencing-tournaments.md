@@ -2,7 +2,7 @@
 title: "An opinionated guide for packing for fencing tournaments"
 craft_id: 2CE35DB1-F2F3-4A10-871A-5ADF942F42AF
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-11-11T16:38:23.000Z
+lastmod: 2026-11-16T00:47:30.183Z
 ---
 
 ## Packing List
@@ -86,6 +86,8 @@ I recommend you go to Victory Fencing and get your weapons there
 - LP Apex Blade (durable, light neutral blade with very higher consistency than BF blades)
 - XS or S Allstar or Negrini Visconti grip
 - FWF german tip
+
+I do wish they carried PBT Titanium allow guards which are lightweight and more durable than the FWF Aluminum ones
 
 ## Field Repair Kit
 
