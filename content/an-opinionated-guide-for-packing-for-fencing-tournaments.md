@@ -2,7 +2,7 @@
 title: "An opinionated guide for packing for fencing tournaments"
 craft_id: 2CE35DB1-F2F3-4A10-871A-5ADF942F42AF
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-11-17T19:02:19.922Z
+lastmod: 2026-11-17T19:02:42.907Z
 ---
 
 ## Packing List
@@ -20,7 +20,7 @@ Why three cords when tournaments require two? Because when one fails and you go 
 
 There are three levels of uniforms based on puncture resistance.
 
-- **Low-tier - 350N** - 350N is the minimum puncture resistance for USA tournaments
+- **Low-tier 350N** - 350N is the minimum puncture resistance for USA tournaments
 - **Mid-tier 800N** - These use thicker fabric to get higher puncture resistance
 - **High-tier 800N** - These use advanced fabrics like Dyneema to stay very lightweight but protect (e.g. Allstar Startex)
 
@@ -48,8 +48,8 @@ Other brands include store house brands (Blue Gauntlet, Alliance, Linea, Leonark
 There are three tiers
 
 
-- Low Tier - basically your entry level
-- **Mid Tier -** have removable, washable liners
+- **Low-tier -** basically your entry level
+- **Mid-tier -** have removable, washable liners
 - **High-tier -** Leon Paul X-change has a unique fit system
 
 Skip the low-tier since masks get sweaty and gross.
