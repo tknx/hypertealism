@@ -1,8 +1,10 @@
 ---
 title: "Ioniq 9 Critiques"
 craft_id: DE767146-7CB0-4F3E-AAE1-98F07C99EC5E
+craft_render: 2
 date: 2026-04-24T18:00:38.156Z
 lastmod: 2026-11-10T14:36:31.059Z
+craft_published: 2026-04-24T18:00:38.156Z
 ---
 
 **Access**

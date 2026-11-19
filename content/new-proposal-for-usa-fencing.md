@@ -1,8 +1,10 @@
 ---
 title: "New proposal for USA fencing"
 craft_id: 6F398D62-93D9-4250-9996-9F4EBCA1664E
+craft_render: 2
 date: 2026-09-26T15:14:17.747Z
 lastmod: 2026-09-26T15:28:37.625Z
+craft_published: 2026-09-26T15:14:17.747Z
 ---
 
 There are significant issues with the current allocation of tournaments by geography by USA Fencing.  The current bid system reinforces this inequity and I would suggest should be scrapped. 

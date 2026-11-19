@@ -1,8 +1,10 @@
 ---
 title: "Leon Paul Vertex critique"
 craft_id: BA6AEB1B-9D5D-4B19-BA0C-4ABA96DDC63A
+craft_render: 2
 date: 2026-09-14T21:04:43.795Z
 lastmod: 2026-09-24T22:52:43.480Z
+craft_published: 2026-09-14T21:04:43.795Z
 ---
 
 The world of fencing travel bags is a pile of shit. The king of these bags is the Leon Paul Vertex, which has great ideas often poorly executed.

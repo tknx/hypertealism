@@ -1,8 +1,10 @@
 ---
 title: "Loxone critiques"
 craft_id: 45EE4645-62C8-435C-96C5-BE7EA0B93A2B
+craft_render: 2
 date: 2026-04-18T17:23:56.073Z
 lastmod: 2026-07-23T19:13:44.710Z
+craft_published: 2026-04-18T17:23:56.073Z
 ---
 
 Ongoing list, updated whenever
