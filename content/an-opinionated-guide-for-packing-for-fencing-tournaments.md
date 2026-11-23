@@ -3,7 +3,7 @@ title: "An opinionated guide for packing for fencing tournaments"
 craft_id: 2CE35DB1-F2F3-4A10-871A-5ADF942F42AF
 craft_render: 2
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-11-17T19:02:42.907Z
+lastmod: 2026-11-23T20:41:05.008Z
 craft_published: 2026-09-27T22:19:43.166Z
 ---
 
@@ -95,6 +95,8 @@ I recommend you go to Victory Fencing and get your weapons there
 - FWF german tip
 
 I do wish they carried PBT Titanium allow guards which are lightweight and more durable than the FWF Aluminum ones
+
+My build is FWF german tip, LP Apex Blade, PBT Titanium Guard, FWF 2-prong, 3d printed nut holder, custom D3O pad, KH Fencing Magnesium Visconti Grip S
 
 ## Field Repair Kit
 
