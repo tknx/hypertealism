@@ -3,7 +3,7 @@ title: "An opinionated guide for packing for fencing tournaments"
 craft_id: 2CE35DB1-F2F3-4A10-871A-5ADF942F42AF
 craft_render: 2
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-11-23T20:41:05.008Z
+lastmod: 2026-11-23T20:46:17.255Z
 craft_published: 2026-09-27T22:19:43.166Z
 ---
 
@@ -100,12 +100,21 @@ My build is FWF german tip, LP Apex Blade, PBT Titanium Guard, FWF 2-prong, 3d p
 
 ## Field Repair Kit
 
-- [Línea foil repair kit](https://thefencingpost.com/foil-test-and-repair-kit/) (I built my own kit, but this would have been a good starting point)
+- Build your own or just get a [foil repair kit](https://thefencingpost.com/foil-test-and-repair-kit/)
+  - Slotted 1.8 precision bit
+  - PH0 or PH1 philips bit
+  - 6mm hex bit
+  - 8mm nutsetter
+  - 8mm very skinny wrench
+  - Fix-It sticks
+  - Foil tester
+  - 500gm testing weight
 - 10x springs
 - 3x foil tips
 - 20x tip screws (you could buy more… these suckers get lost easily)
+- 5x body cord clips
 - [Lame repair patches](https://live-spot.net) - if you have a dead spot, you can slap one of these on
-- Tape - Pro Gaff is easy to source, but leaves a lot of sticky residue. Tesa Extra Power Perfect is a better option. Tesa 4651 tape is even tougher and what I use.
+- Tape - Pro Gaff is easy to source, but leaves a lot of sticky residue. Tesa 4651 tape is much better in every way (more abrasion resistent, leaves no residue) but a bit harder to source in the US
 
 *Tip - I threw small magnets into the screw bin and spring bin to keep them in place. The things disappear easily.*
 
