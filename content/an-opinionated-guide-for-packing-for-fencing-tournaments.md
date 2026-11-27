@@ -3,7 +3,7 @@ title: "An opinionated guide for packing for fencing tournaments"
 craft_id: 2CE35DB1-F2F3-4A10-871A-5ADF942F42AF
 craft_render: 2
 date: 2026-09-27T22:19:43.166Z
-lastmod: 2026-11-23T20:46:17.255Z
+lastmod: 2026-11-27T01:02:28.779Z
 craft_published: 2026-09-27T22:19:43.166Z
 ---
 
@@ -82,7 +82,7 @@ Court shoes are easier to source and try on than fencing specific shoes.
 
 Alliance Elite Mask Cords are the best I have seen. Many mask cords are sloppily soldered to the clip and the solder point flexes a bunch. The Alliance ones are riveted and soldered properly with strain relief.
 
-[Negrini body cords](https://www.absolutefencinggear.com/negrini-bodycord-2-prong.html) (2-prong for foil) have the best reputation, but do have sloppy soldering on the clip. Allstar are notoriously fragile per the guys at Victory.
+[Negrini body cords](https://www.absolutefencinggear.com/negrini-bodycord-2-prong.html) (2-prong for foil) have the best reputation, but do have sloppy soldering on the clip. Allstar are notoriously fragile per the guys at Victory. Honestly the ones I see cheaply on Amazon or eBay are fine at $10 each. If you are worried just buy a couple extra. 
 
 To keep them separate, I use this Velcro [triple rifle magazine holder](https://www.opticsplanet.com/galati-gear-3-pocket-rifle-mag-pouch-with-velcro-back.html). It works great. I used adhesive Velcro strips on our practice bag so it can go with him to practice and stick it to the side of the LP bag when travelling. Keeps them from tangling up. (Because fencing bags are horribly allergic to sensible pockets.)
 
